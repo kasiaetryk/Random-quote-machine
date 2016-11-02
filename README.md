@@ -1,6 +1,6 @@
 ## Synopsis
 
-Zadanie_11.5 is a simple quote machine, which gives random quotes. 
+This is a simple quote machine, which gives random quotes. 
 
 ## Motivation
 
